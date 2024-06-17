@@ -1,0 +1,1 @@
+The mobile application called "Homify" is an application that provides various household needs such as gardeners, cleaning services and others. analyzing the "Homify" application is useful to find out the background to which this application was created and also suggestions from users to make the "Homify" application better
